@@ -27,8 +27,9 @@ I'm a aspiring data analyst focused on turning raw data into clear, actionable i
 
 ## Tools
 
-_List your tools used, MYSQL Workbench, Excel, and Tableau._
+_List of tools I've used are MYSQL Workbench, Excel, and Tableau._
 
-## Contact
+## Contacts
 
-_Add your email and LinkedIn profile here._
+- Imarmour05@gmail.com
+- Personal Phone (405)669-5713
