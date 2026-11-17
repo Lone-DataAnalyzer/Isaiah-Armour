@@ -13,21 +13,20 @@ I'm a aspiring data analyst focused on bridging the gap for raw data into clean,
 
 ## Projects
 
-*Supply Chain Excel Analysis*
+|Project|Focus|Link|
+|-------|-----|----|
+|Supply Chain Analysis|Logistics and delivery performence|See here|
+|Bank Loan Analysis|Lending trends and risk factors|See here|
+|Health Care Analysis|Patient and operations performence|See here|
+|Employee Attrition end to end Analysis|Employee retention and turnover rate|See here|
 
-- Architecture: Clustered customer data to identify distinct purchasing behaviors and high value products from different manufacturers.
-- Tools used: Excel.
-- Highlights: organized, and aggregated the raw data for translating into a helpful business insight.
+## Education
 
-*Bank Loans SQL Analysis*
+High school diploma | Putnam city north | May 2023
 
-- Architecture: Comprehensive lending records containing loans, interest rates, term lengths, debt to income, and current default stats.
-- Tools used: Excel and MySQL Workbench.
-- Highlights: Used queries to find out how many total borrowers that are in a low, moderate, high, or severe risk of debt to income.
+Certificate in Data Analytics | Francis Tuttle Technology Center | April 2026
 
-*Health care Tableau Analysis*
-
-- Architecture: 
+Certificate in Data Analytics | Chegg Skills | October 2026
 
 ## Tools
 
